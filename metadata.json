@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "KWin/WindowSwitcher",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "logik"
+            },
+            {
+                "Email": "zrenfire@gmail.com",
+                "Name": "Chris Holland"
+            },
+            {
+                "Email": "nate@kde.org",
+                "Name": "Nate Graham"
+            }
+        ],
+        "Description": "A larger variant of KDE's Thumbnail Grid task switcher with bigger window previews",
+        "Icon": "preferences-system-windows-switcher-thumbnail-grid",
+        "Id": "large_thumbnail_grid",
+        "License": "GPL-2.0-or-later",
+        "Name": "Large Thumbnail Grid",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "declarativeappletscript"
+}
